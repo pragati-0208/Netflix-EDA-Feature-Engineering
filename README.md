@@ -1,5 +1,10 @@
 # 🎬 Netflix Content Analytics & ML Dashboard
 
+
+## 🚀 Live Demo
+🔗 https://netflix-eda-feature-engineering-6vzr5ypnrbsb2bbew5ctdv.streamlit.app/
+
+
 An end-to-end data analytics and machine learning project analyzing Netflix content using
 EDA, feature engineering, interactive visualizations, and predictive modeling.
 
