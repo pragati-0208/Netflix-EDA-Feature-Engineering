@@ -32,7 +32,7 @@ Built with **Streamlit** to provide a clean, interactive dashboard experience.
 
 ## 📂 Project Structure
 
-Netflix-EDA-Feature-Engineering/
+```Netflix-EDA-Feature-Engineering/
 │
 ├── app.py # Main Streamlit app
 ├── pages/ # Multi-page Streamlit views
@@ -41,7 +41,7 @@ Netflix-EDA-Feature-Engineering/
 ├── visuals/ # Saved plots & screenshots
 ├── insights.md # Business insights
 ├── requirements.txt
-└── README.md
+└── README.md```
 
 
 ---
