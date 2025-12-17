@@ -32,7 +32,9 @@ Built with **Streamlit** to provide a clean, interactive dashboard experience.
 
 ## 📂 Project Structure
 
-```Netflix-EDA-Feature-Engineering/
+```
+
+Netflix-EDA-Feature-Engineering/
 │
 ├── app.py # Main Streamlit app
 ├── pages/ # Multi-page Streamlit views
@@ -41,10 +43,11 @@ Built with **Streamlit** to provide a clean, interactive dashboard experience.
 ├── visuals/ # Saved plots & screenshots
 ├── insights.md # Business insights
 ├── requirements.txt
-└── README.md```
+└── README.md
 
-
+```
 ---
+
 
 ## 📊 Machine Learning
 
@@ -55,9 +58,10 @@ Built with **Streamlit** to provide a clean, interactive dashboard experience.
   - Mean Absolute Error (MAE)
 
 The model demonstrates explainability and baseline predictive performance.
-
+```
 ---
 
+```
 ## ▶️ How to Run Locally
 
 ```bash
@@ -74,7 +78,6 @@ Netflix Movies and TV Shows dataset (public dataset).
 
 ---
 
-📷 Screenshots
 
 ## 📸 Dashboard Preview
 
