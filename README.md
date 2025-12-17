@@ -58,9 +58,8 @@ Netflix-EDA-Feature-Engineering/
   - Mean Absolute Error (MAE)
 
 The model demonstrates explainability and baseline predictive performance.
-```
----
 
+```
 
 ```
 ## ▶️ How to Run Locally
