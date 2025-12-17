@@ -64,24 +64,30 @@ The model demonstrates explainability and baseline predictive performance.
 pip install -r requirements.txt
 streamlit run app.py
 
+```
+
+---
 
 📌 Dataset
 
 Netflix Movies and TV Shows dataset (public dataset).
 
+---
+
 📷 Screenshots
 
-## 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
-### Home
-![Home](visuals/screenshots/home.png)
+### 🏠 Home Page
+![Home Page](./visuals/screenshots/home.png)
 
-### Dashboard
-![Home](visuals/screenshots/dashboard.png)
+### 📊 Dashboard
+![Dashboard](./visuals/screenshots/dashboard.png)
 
-### Insights
-![Insights](visuals/screenshots/insights.png)
+### 📈 Insights
+![Insights](./visuals/screenshots/insights.png)
 
-### Machine Learning Page
-![ML Model](visuals/screenshots/ml_model1.png)
-(visuals/screenshots/ml_model2.png)
+### 🤖 Machine Learning
+![ML Model 1](./visuals/screenshots/ml_model1.png)
+![ML Model 2](./visuals/screenshots/ml_model2.png)
+
